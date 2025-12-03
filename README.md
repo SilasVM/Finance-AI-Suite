@@ -6,7 +6,7 @@ This Suite is a compilation of programs developed under the advise of Dr. Isaac 
 
 ## Description ##
 
-These AI applications are all built using Python. Additionally several libraries and packages are necessary to run this program. The Graphical User interface must be run in the command line first. Before that however its best to install all necessary packages. This Suite sports a GUI utilizing the [tkinter](https://docs.python.org/3/library/tkinter.html) library in python. This will need to be installed on your device as well.
+These AI applications are all built using Python. Additionally several libraries and packages are necessary to run this program. The Graphical User interface must be run in the command line first. Before that however its best to install all necessary packages. This Suite sports a GUI utilizing the flask library in python. This will need to be installed on your device as well.
 
 ## Setting Up your environment ##
 
@@ -37,9 +37,9 @@ To make this easier, I've created a [script](https://github.com/SilasVM/Finance-
 <img width="1397" height="668" alt="image" src="https://github.com/user-attachments/assets/423fba7a-674a-4a0e-9d71-31f47b011897" />
 This script will notify you if any installations fail.
 
-After you've successfully run that script, you can proceed to the command line of your choice and run `python .\ProgramManager.py`. This is the script that generated the graphical user interface, and connects the documentation, videos, and code for each assignment. Upon successful run you'll see this window open:
+After you've successfully run that script, you can proceed to the command line of your choice and run `python app.py`. This is the script that generated the graphical user interface, and connects the documentation, videos, and code for each assignment. Upon successful run you'll see this window open:
 
-<img width="1324" height="1029" alt="image" src="https://github.com/user-attachments/assets/6ede59bf-9ddb-4e18-936e-b0efa7334da4" />
+<img width="2557" height="1391" alt="image" src="https://github.com/user-attachments/assets/c5edd9c9-39eb-4dcc-a83d-6f5caed62aa9" />
 
 ## Utilizing the GUI and Programs ##
 Each Program comes equipped with documentation describing it's functionality, PEAS, and relation to the field of Finance. It also comes with the ability to run the program, which will be reflected in the terminal you begin the Program Manager in. Additionally, a video demo of each program is provided where I speak about the specifics, the implementation decisions I made, and the features I added and their relation to the industry of finance.
