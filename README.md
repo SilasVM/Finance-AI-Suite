@@ -6,7 +6,7 @@ This Suite is a compilation of programs developed under the advise of Dr. Isaac 
 
 ## Description ##
 
-These AI applications are all built using Python. Additionally several libraries and packages are necessary to run this program. The Graphical User interface must be run in the command line first. Before that however its best to install all necessarry packages. This Suite sports a GUI utilizing the [tkinter](https://docs.python.org/3/library/tkinter.html) library in python. This will need to be installed on your device as well.
+These AI applications are all built using Python. Additionally several libraries and packages are necessary to run this program. The Graphical User interface must be run in the command line first. Before that however its best to install all necessary packages. This Suite sports a GUI utilizing the [tkinter](https://docs.python.org/3/library/tkinter.html) library in python. This will need to be installed on your device as well.
 
 ## Setting Up your environment ##
 
