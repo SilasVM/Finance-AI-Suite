@@ -1,0 +1,52 @@
+StockName,PricePerUnit,RiskLevel,Industry,Country
+Apple Inc,150.25,Low,Technology,USA
+Tesla Inc,270,High,Automotive,USA
+HSBC Holdings,45,Medium,Finance,UK
+Pfizer Inc,39.5,Low,Healthcare,USA
+Shell PLC,60.1,Medium,Energy,UK
+Netflix Inc,400,High,Entertainment,USA
+Toyota Motor Corp,130,Medium,Automotive,Japan
+RBC Bank,80,Low,Finance,Canada
+Sony Corp,95.5,Medium,Entertainment,Japan
+Intel Corp,98.2,Low,Technology,USA
+Volkswagen AG,145,High,Automotive,Germany
+BP PLC,55.75,Medium,Energy,UK
+Walmart Inc,140.5,Low,Retail,USA
+Amazon Inc,330,High,Retail,USA
+Reliance Industries,120,Medium,Energy,India
+Tata Consultancy,95,Low,Technology,India
+Deutsche Bank,52.25,High,Finance,Germany
+Nvidia Corp,410,High,Technology,USA
+Moderna Inc,115,Medium,Healthcare,USA
+Johnson & Johnson,165,Low,Healthcare,USA
+Barclays PLC,46.5,Medium,Finance,UK
+ICICI Bank,44,Low,Finance,India
+HDFC Bank,60,Low,Finance,India
+Exxon Mobil,110,Medium,Energy,USA
+Chevron Corp,145,Medium,Energy,USA
+Zoom Video,78.9,High,Technology,USA
+Meta Platforms,320,High,Technology,USA
+AT&T Inc,17.5,Low,Telecommunications,USA
+Verizon Comm,33,Low,Telecommunications,USA
+Roku Inc,65,High,Entertainment,USA
+Unilever PLC,55.6,Low,Consumer Goods,UK
+Procter & Gamble,135,Low,Consumer Goods,USA
+Colgate-Palmolive,88.2,Low,Consumer Goods,USA
+Ford Motor,12,High,Automotive,USA
+General Motors,35,Medium,Automotive,USA
+BMW AG,98,Medium,Automotive,Germany
+SAP SE,123.5,Low,Technology,Germany
+Infosys Ltd,68.75,Low,Technology,India
+ZoomInfo Tech,20.3,High,Technology,USA
+PayPal Holdings,105,High,Finance,USA
+Mastercard Inc,390,Medium,Finance,USA
+Visa Inc,410,Medium,Finance,USA
+Netflix India,390,High,Entertainment,India
+Sony India,88,Medium,Entertainment,India
+Sun Pharma,55,Low,Healthcare,India
+Bayer AG,75,Medium,Healthcare,Germany
+RWE AG,45.3,Low,Energy,Germany
+T-Mobile US,140,Medium,Telecommunications,USA
+Bharti Airtel,42,Medium,Telecommunications,India
+Alibaba Group,110,High,Retail,China
+JD.com Inc,70,High,Retail,China
