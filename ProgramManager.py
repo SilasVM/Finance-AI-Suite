@@ -64,11 +64,9 @@ for folder in sorted(os.listdir(APP_DIR)):
     if os.path.isdir(folderPath):
 
         #Creating a frame for the program
-        card = Frame(container, width = 300, height = 150, bd = 2, relief = "raised")
+        card = Frame(container, width = 400, height = 150, bd = 2, relief = "raised")
         card.grid(row = row, column = col, padx = 10, pady = 10)
         card.grid_propagate(False)
-        label = Label(card, text = folder, font = ("Times New Roman", 12, "bold"))
-        label.grid(row = 0, column = 1, columnspan = 3, pady = (10, 5))
 
         #Spacer to put the buttons towards the bottom of each card
         card.grid_rowconfigure(1, weight = 1)
@@ -85,6 +83,10 @@ for folder in sorted(os.listdir(APP_DIR)):
 
             #pythonFiles[folder] = pythonList if pythonList else None
             fileName = os.path.splitext(pythonList[0])[0]
+
+            label = Label(card, text = fileName, font = ("Times New Roman", 8, "bold"))
+            label.grid(row = 0, column = 1, columnspan = 3, pady = (10, 5))
+
             docxPath = os.path.join(folderPath, f"{fileName}.docx")
             pdfPath = os.path.join(folderPath, f"{fileName}.pdf")
 
